@@ -34,9 +34,6 @@ An open standard for access delegation, commonly used as a way to grant websites
 ## Rate Limiting
 A mechanism that limits the number of API requests a client can make within a specified time period. Helps prevent abuse and ensures fair usage of resources.
 
-## MuleSoft
-A software company that provides integration software for connecting applications, data, and devices. Known for its Anypoint Platform which allows businesses to build and manage APIs and integrations.
-
 ## Anypoint Platform
 MuleSoft's unified integration platform for connecting any application, data source, or API, whether in the cloud or on-premises. It includes tools for designing, building, and managing APIs and integrations.
 
